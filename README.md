@@ -43,6 +43,8 @@ $ bundle
 
 ## Usage
 
+bundle exec jekyll serve
+
 Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
 
 ## Contributing
