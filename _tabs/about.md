@@ -4,5 +4,20 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+**Software Enginner, Devops y Ciberseguridad**
+
+Ingeniero de software con experiencia en lengaujes de proramación
+- python
+- golang
+- javascript
+- PHP
+
+
+**Certificaciones**
+
+- Professional Cloud DevOps Engineer - Gooogle cloud
+- Certified Kubernetes Administrator (CKA) - Linux Foundation
+
+**Perfil Hack the box**
+
+https://app.hackthebox.com/profile/897704
