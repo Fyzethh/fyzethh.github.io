@@ -4,9 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-**Software Enginner, Devops y Ciberseguridad**
+**Software Engineer, Devops y Ciberseguridad**
 
-Ingeniero de software con experiencia en lengaujes de proramación
+Ingeniero de software con experiencia en lenguajes de programación
 - python
 - golang
 - javascript
@@ -21,3 +21,5 @@ Ingeniero de software con experiencia en lengaujes de proramación
 **Perfil Hack the box**
 
 https://app.hackthebox.com/profile/897704
+
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'B0B110E1MC');kofiwidget2.draw();</script> 
