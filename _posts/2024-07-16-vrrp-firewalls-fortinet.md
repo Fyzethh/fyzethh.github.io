@@ -1,6 +1,6 @@
 ---
 title: Configuración Alta disponibilidad (HA) con firewalls fortigate de fortinet.
-date: 2024-10-16
+date: 2024-07-16
 categories: redes 
 tags:
   - Redes
